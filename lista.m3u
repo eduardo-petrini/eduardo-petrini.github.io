@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1, américa.
+http://200.49.131.2/america
+#EXTINF:-1, canal-7
+http://200.49.131.2/canal7
+#EXTINF:-1, canal-9
+http://200.49.131.2/canal9
+#EXTINF:-1, telefe
+http://200.49.131.2/telefe
+#EXTINF:-1, canal-13
+http://200.49.131.2/canal13
+#EXTINF:-1, encuentro
+http://200.49.131.2/encuentro
+#EXTINF:-1, magazine
+http://200.49.131.2/magazine
+#EXTINF:-1, volver
+http://200.49.131.2/volver
+#EXTINF:-1, a24
+http://200.49.131.2/a24
+#EXTINF:-1, c5n
+http://200.49.131.2/c5n
+#EXTINF:-1, crónica
+http://200.49.131.2/cronicatv
+#EXTINF:-1, canal-26
+http://200.49.131.2/canal26
+#EXTINF:-1, tn
+http://200.49.131.2/tn
+#EXTINF:-1, fox-sports
+http://200.49.131.2/foxsports
+#EXTINF:-1, fox-sports-2
+http://200.49.131.2/foxsports2
+#EXTINF:-1, fox-sports-3
+http://200.49.131.2/foxsports3
+#EXTINF:-1, ESPN-más
+http://200.49.131.2/espn-mas
+#EXTINF:-1, ESPN
+http://200.49.131.2/espn
+#EXTINF:-1, ESPN-2
+http://200.49.131.2/espn2
+#EXTINF:-1, ESPN-3
+http://200.49.131.2/espn3
+#EXTINF:-1, TyC-sports
+http://200.49.131.2/tycsports
+#EXTINF:-1, deporTV
+http://200.49.131.2/deportv
+#EXTINF:-1, el-garage
+http://200.49.131.2/elgarage
+#EXTINF:-1, NBATV
+http://200.49.131.2/nbatv
+#EXTINF:-1, america-sports
+http://200.49.131.2/americasports
+#EXTINF:-1, tnt
+http://200.49.131.2/tnt
+#EXTINF:-1, tcm
+http://200.49.131.2/tcm
+#EXTINF:-1, the-film-zone
+http://200.49.131.2/thefilmzone
+#EXTINF:-1, cine-canal
+http://200.49.131.2/cinecanal
+#EXTINF:-1, studio-universal
+http://200.49.131.2/studio
+#EXTINF:-1, cinemax
+http://200.49.131.2/cinemax
+#EXTINF:-1, paramount-channel
+http://200.49.131.2/paramount
+#EXTINF:-1, cine argentino
+http://200.49.131.2/incaa
+#EXTINF:-1, space
+http://200.49.131.2/space
+#EXTINF:-1, isat
+http://200.49.131.2/isat
+#EXTINF:-1, fox
+http://200.49.131.2/fox
+#EXTINF:-1, warner
+http://200.49.131.2/warner
+#EXTINF:-1, sony
+http://200.49.131.2/sony
+#EXTINF:-1, AXN
+http://200.49.131.2/axn
+#EXTINF:-1, AMC
+http://200.49.131.2/amc
+#EXTINF:-1, tnt-series
+http://200.49.131.2/tntseries
+#EXTINF:-1, fx
+http://200.49.131.2/fx
+#EXTINF:-1, uni-channel
+http://200.49.131.2/unichannel
+#EXTINF:-1, syfy
+http://200.49.131.2/syfy
+#EXTINF:-1, truTV
+http://200.49.131.2/trutv
+#EXTINF:-1, home-and-health
+http://200.49.131.2/homeandhealth
+#EXTINF:-1, euro-channel
+http://200.49.131.2/eurochannel
+#EXTINF:-1, europa
+http://200.49.131.2/europa
+#EXTINF:-1, nat-geo
+http://200.49.131.2/natgeo
+#EXTINF:-1, nat-geo-wild
+http://200.49.131.2/natgeowild
+#EXTINF:-1, history-channel
+http://200.49.131.2/thehistorychannel
+#EXTINF:-1, discovery-turbo
+http://200.49.131.2/discoveryturbo
+#EXTINF:-1, theater
+http://200.49.131.2/theater
+#EXTINF:-1, mtv
+http://200.49.131.2/mtv
+#EXTINF:-1, much-music
+http://200.49.131.2/muchmusic
+#EXTINF:-1, vh1
+http://200.49.131.2/vh1
+#EXTINF:-1, htv
+http://200.49.131.2/htv
+#EXTINF:-1, quiero
+http://200.49.131.2/quiero
+#EXTINF:-1, cm
+http://200.49.131.2/cm
+#EXTINF:-1,continental
+https://20823.live.streamtheworld.com/CONTINENTALAAC.aac
+#EXTINF:-1,LA-RED
+http://190.113.164.52:8080/LaRedCapital
+#EXTINF:-1,FM gol
+https://arcast.net:8445/FMGOL.MP3

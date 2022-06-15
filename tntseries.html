@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>TNT Series</title>
+</head>
+<body>
+<script type="text/javascript">
+document.oncontextmenu = function(){return false;}
+</script>
+<audio autoplay="true" volume="0.0" ontimeupdate="document.getElementById('progress1').innerHTML=calcular(this.currentTime)+'/'+calcular(this.duration);" id="reproductor1">
+<source src="http://200.49.131.2/tntseries" type="audio/mpeg">
+</audio>
+<button onclick="document.getElementById('reproductor1').play();">Reproducir</button>
+<button onclick="document.getElementById('reproductor1').pause();">Pausar</button>
+<button onclick="document.getElementById('reproductor1').volume+=0.09;">Subir volumen</button>
+<button onclick="document.getElementById('reproductor1').volume-=0.09;">Bajar volumen</button>
+<button onclick="document.getElementById('reproductor1').muted=true;">Silenciar</button>
+<button onclick="document.getElementById('reproductor1').muted=false;">Quitar silencio</button></p>
+</body>
+</html>
